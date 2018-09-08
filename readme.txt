@@ -1,1 +1,1 @@
-123123vim is cool
+123123vim is cool GPL 
